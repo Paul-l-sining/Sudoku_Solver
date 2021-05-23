@@ -1,0 +1,7 @@
+.gitignore
+misc.xml
+modules.xml
+profiles_settings.xml
+Project_Default.xml
+Sudoku_Solver.iml
+vcs.xml
